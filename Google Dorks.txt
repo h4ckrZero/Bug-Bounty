@@ -1,0 +1,14 @@
+Enter the URL in site.
+
+Directory listing => site: intitle:index.of
+
+Exposed Configuration files => site: ext:xml | ext:conf | ext:cnf | ext:reg | ext:inf | ext:rdp | ext:cfg | ext:txt | ext:ora | ext:ini
+
+Exposed Database files => site: ext:sql | ext:dbf | ext:mdb
+
+Exposed Log Files => site: ext:log
+
+Find Wordpress Contents => site: inurl:wp- | inurl:wp-content | inurl:plugins | inurl:uploads | inurl:themes | inurl:download
+
+Publicly exposed documents => site: ext:doc | ext:docx | ext:odt | ext:pdf | ext:rtf | ext:sxw | ext:psw | ext:ppt | ext:pptx | ext:pps | ext:csv
+
